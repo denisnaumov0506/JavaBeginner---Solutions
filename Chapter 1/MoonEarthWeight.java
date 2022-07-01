@@ -1,3 +1,10 @@
+/*
+ * Write a program that computes your effective weight on the moon! (Source: Java A Beginner's Guide [Herbet Schildt])
+ * 
+ * Author: Denis Naumov
+ * Creation date: 22.05.2021
+ */
+
 public class MoonEarthWeight {
 
 	public static void main(String[] args) {
